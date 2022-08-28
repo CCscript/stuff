@@ -15,7 +15,7 @@ video.Size = UDim2.new(1,0,1,0)
 local Name = "lolx.mp4"
 
 if not isfile(Name) then
-    writefile(Name, game:HttpGet("https://github.com/CCscript/stuff/blob/main/fish_spinning_for_68_years-1_1_1.mp4"))
+    writefile(Name, game:HttpGet("https://github.com/CCscript/stuff/blob/main/Berserk%20Skeleton%20Meme%20(Extended).mp4"))
 end
 
 video.Video = syn and getsynasset(Name) or getcustomasset(Name)
